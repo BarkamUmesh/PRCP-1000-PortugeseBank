@@ -95,5 +95,5 @@ Chosen to maximize identification of potential subscribers.
 ---
 
 ## 👤 Author
-Umesh Bintu  
+Barkam Umesh 
 (Data Science & Machine Learning Project)
